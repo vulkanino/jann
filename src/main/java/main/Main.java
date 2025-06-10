@@ -70,6 +70,10 @@ public class Main
                 map.put(parts[0], parts[1]);
             }
         }
+
+        if ( map.isEmpty() )
+            printUsage();
+
         return map;
     }
 
