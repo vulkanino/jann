@@ -1,11 +1,7 @@
 # JaNN
 Una rete neurale completamente connessa codificata in Java per il riconoscimento di cifre scritte a mano. 
 
-![image](https://github.com/user-attachments/assets/d9b7dffd-6873-4b02-b50a-6ac6848aa31f)![image](https://github.com/user-attachments/assets/86602de8-38f4-435f-97a8-0d6c6e273e70)<img width="482" alt="image" src="https://github.com/user-attachments/assets/9e9a13b3-8e08-45d4-98f6-a6148210d3c7" />
-
-
 ## Introduzione ##
-
 Le reti neurali artificiali sono modelli matematici ispirati al funzionamento del cervello umano, progettati per riconoscere schemi e prendere decisioni in base ai dati. Una delle architetture più semplici ma potenti è la rete neurale completamente connessa (fully connected neural network), nella quale ogni neurone di un livello è connesso a tutti i neuroni del livello successivo.
 
 Con questo articolo implementeremo gradualmente una semplice rete neurale completamente connessa usando Java moderno (versione 24), atta al riconoscimento di numeri scritti a mano. 
